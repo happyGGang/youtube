@@ -113,11 +113,11 @@ section {
 }
 
 .contents.list {
-  display: none;
+  display: flex;
 }
 
 .contents.view {
-  display: flex;
+  display: none;
 }
 
 .contents.view figure {
